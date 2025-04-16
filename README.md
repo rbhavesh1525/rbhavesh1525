@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii there <br>I am a Full Stack Developer proficient in React, Node.js, Express.js, and Python.<br><br>
+Hii there <br>I am a Full Stack Web Developer proficient in React, Node.js, Express.js, and Python.<br><br>
 
 
 ## 🌐 Socials:
